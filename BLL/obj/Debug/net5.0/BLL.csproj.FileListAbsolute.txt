@@ -1,0 +1,15 @@
+C:\Users\Erdion Hoxha\source\repos\Hospital\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Erdion Hoxha\source\repos\Hospital\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erdion Hoxha\source\repos\Hospital\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Erdion Hoxha\source\repos\Hospital\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\Erdion Hoxha\source\repos\Hospital\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Erdion Hoxha\source\repos\Hospital\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\Erdion Hoxha\source\repos\Hospital\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\Erdion Hoxha\source\repos\Hospital\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\Erdion Hoxha\source\repos\Hospital\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\Erdion Hoxha\source\repos\Hospital\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\Erdion Hoxha\source\repos\Hospital\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Erdion Hoxha\source\repos\Hospital\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\Erdion Hoxha\source\repos\Hospital\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\Erdion Hoxha\source\repos\Hospital\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\Erdion Hoxha\source\repos\Hospital\BLL\obj\Debug\net5.0\BLL.pdb

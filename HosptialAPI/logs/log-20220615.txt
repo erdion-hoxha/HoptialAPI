@@ -1,0 +1,15 @@
+2022-06-15 15:05:22.698 +02:00 [INF] Application started
+2022-06-15 15:05:23.840 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-15 15:05:23.843 +02:00 [INF] Hosting environment: Development
+2022-06-15 15:05:23.844 +02:00 [INF] Content root path: C:\Users\Erdion Hoxha\source\repos\HosptialAPI
+2022-06-15 15:05:23.862 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44311/swagger/index.html - -
+2022-06-15 15:05:23.980 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44311/swagger/index.html - - - 200 - text/html;charset=utf-8 116.6412ms
+2022-06-15 15:05:24.158 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44311/swagger/v1/swagger.json - -
+2022-06-15 15:05:24.235 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44311/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 77.3106ms
+2022-06-15 15:13:45.886 +02:00 [INF] Request starting HTTP/2 GET https://localhost:44311/WeatherForecast - -
+2022-06-15 15:13:45.937 +02:00 [INF] Executing endpoint 'HosptialAPI.Controllers.WeatherForecastController.Get (HosptialAPI)'
+2022-06-15 15:13:45.977 +02:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[HosptialAPI.WeatherForecast] Get() on controller HosptialAPI.Controllers.WeatherForecastController (HosptialAPI).
+2022-06-15 15:13:45.991 +02:00 [INF] Executing ObjectResult, writing value of type 'HosptialAPI.WeatherForecast[]'.
+2022-06-15 15:13:46.015 +02:00 [INF] Executed action HosptialAPI.Controllers.WeatherForecastController.Get (HosptialAPI) in 33.9016ms
+2022-06-15 15:13:46.016 +02:00 [INF] Executed endpoint 'HosptialAPI.Controllers.WeatherForecastController.Get (HosptialAPI)'
+2022-06-15 15:13:46.017 +02:00 [INF] Request finished HTTP/2 GET https://localhost:44311/WeatherForecast - - - 200 - application/json;+charset=utf-8 131.0165ms
